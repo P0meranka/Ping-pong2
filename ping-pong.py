@@ -126,3 +126,7 @@ while game:
 
     display.update()
     clock.tick(FPS)
+
+
+    display.update()
+    clock.tick(FPS)
